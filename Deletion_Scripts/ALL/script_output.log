@@ -1,0 +1,344 @@
+Running policychecker.py script...
+Notification sent: Unexpected policies found.
+
+Execution completed time: 2024-03-20 09:12:54
+Script execution time: 2.01 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:13:10
+Script execution time: 16.13 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 09:13:27
+Script execution time: 16.77 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:13:50
+Script execution time: 22.80 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:14:06
+Script execution time: 15.71 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:14:22
+Script execution time: 15.97 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:14:37
+Script execution time: 15.54 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 09:14:38
+Script execution time: 0.56 seconds
+All scripts executed. Total time taken: 105.50 seconds
+Execution completed time: 2024-03-20 09:19:54
+Script execution time: 0.32 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:20:10
+Script execution time: 16.20 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 09:20:26
+Script execution time: 16.24 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:20:41
+Script execution time: 15.31 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:20:58
+Script execution time: 16.26 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:21:15
+Script execution time: 17.64 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:21:32
+Script execution time: 16.47 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 09:21:32
+Script execution time: 0.50 seconds
+All scripts executed. Total time taken: 98.97 seconds
+Execution completed time: 2024-03-20 09:24:45
+Script execution time: 0.30 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:25:02
+Script execution time: 17.68 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 09:25:18
+Script execution time: 15.89 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:25:39
+Script execution time: 20.73 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:25:55
+Script execution time: 15.81 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:26:12
+Script execution time: 16.85 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:26:27
+Script execution time: 15.45 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 09:26:28
+Script execution time: 0.46 seconds
+All scripts executed. Total time taken: 103.20 seconds
+Running policychecker.py script...
+Notification sent: Unexpected policies found.
+
+Execution completed time: 2024-03-20 09:28:37Script execution time: 1.92 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 09:28:54Script execution time: 17.38 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 09:29:11Script execution time: 16.82 seconds
+Execution completed time: 2024-03-20 09:29:21Script execution time: 10.21 seconds
+Execution completed time: 2024-03-20 15:51:13
+Script execution time: 0.44 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 15:51:31
+Script execution time: 18.06 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 15:51:49
+Script execution time: 17.64 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 15:52:05
+Script execution time: 15.73 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 15:52:23
+Script execution time: 18.30 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 15:52:39
+Script execution time: 16.14 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 15:52:54
+Script execution time: 14.96 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 15:52:57
+Script execution time: 2.62 seconds
+All scripts executed. Total time taken: 103.92 seconds
+Execution completed time: 2024-03-20 16:40:08
+Script execution time: 0.40 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 16:40:25
+Script execution time: 17.22 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 16:40:42
+Script execution time: 17.09 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 16:41:00
+Script execution time: 17.17 seconds
+Execution completed time: 2024-03-20 16:41:00
+Script execution time: 0.36 seconds
+Running policychecker.py script...
+Notification sent: Unexpected policies found.
+
+Execution completed time: 2024-03-20 18:51:07
+Script execution time: 2.39 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:51:24
+Script execution time: 16.56 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 18:51:40
+Script execution time: 15.90 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:51:55
+Script execution time: 15.09 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:52:11
+Script execution time: 16.62 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:52:28
+Script execution time: 16.25 seconds
+Execution completed time: 2024-03-20 18:52:34
+Script execution time: 6.68 seconds
+Running policychecker.py script...
+Notification sent: Unexpected policies found.
+
+Execution completed time: 2024-03-20 18:52:40
+Script execution time: 2.05 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:52:56
+Script execution time: 16.54 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 18:53:13
+Script execution time: 16.66 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:53:28
+Script execution time: 14.63 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IP found in us-east-1: 54.235.115.133, Allocation ID - eipalloc-03cdbe5c47655fa80, Instance ID - N/A
+
+Execution completed time: 2024-03-20 18:53:44
+Script execution time: 16.38 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:53:59
+Script execution time: 15.10 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 18:54:14
+Script execution time: 15.19 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 18:54:15
+Script execution time: 0.64 seconds
+All scripts executed. Total time taken: 97.24 seconds
+Execution completed time: 2024-03-20 19:02:06
+Script execution time: 0.38 seconds
+Running ebs.py script...
+Skipping ap-south-1 region
+EBS Volumes processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 19:02:22
+Script execution time: 16.71 seconds
+Running EC2.py script...
+Skipping ap-south-1 region
+No EC2 instances found in any region
+
+Execution completed time: 2024-03-20 19:02:39
+Script execution time: 16.80 seconds
+Running ecs.py script...
+Skipping ap-south-1 region
+ECS Clusters processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 19:02:55
+Script execution time: 15.80 seconds
+Running eip.py script...
+Skipping ap-south-1 region
+Elastic IPs processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 19:03:11
+Script execution time: 16.38 seconds
+Running natgateway.py script...
+Skipping ap-south-1 region
+NAT Gateways processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 19:03:27
+Script execution time: 15.97 seconds
+Running rds.py script...
+Skipping ap-south-1 region
+RDS Instances processed in all regions, Nothing found
+
+Execution completed time: 2024-03-20 19:03:42
+Script execution time: 14.65 seconds
+Running S3.py script...
+No S3 Buckets found from last 24 hrs
+
+Execution completed time: 2024-03-20 19:03:43
+Script execution time: 0.63 seconds
+All scripts executed. Total time taken: 97.36 seconds

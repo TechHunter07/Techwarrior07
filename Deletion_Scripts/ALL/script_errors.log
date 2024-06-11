@@ -1,0 +1,25 @@
+ERROR:root:Error executing policychecker.py script:   File "/home/venkatasiva.b@optit.india/Documents/RRR/ALL/policychecker.py", line 8
+    user_name = 'TechWorrior
+                ^
+SyntaxError: unterminated string literal (detected at line 8)
+
+ERROR:root:2024-03-20 09:24:45: Error executing policychecker.py script:   File "/home/venkatasiva.b@optit.india/Documents/RRR/ALL/policychecker.py", line 8
+    user_name = 'TechWorrior
+                ^
+SyntaxError: unterminated string literal (detected at line 8)
+
+ERROR:root:2024-03-20 15:51:13: Error executing policychecker.py script:   File "/home/venkatasiva.b@optit.india/Documents/RRR/ALL/policychecker.py", line 8
+    user_name = 'TechWorrior
+                ^
+SyntaxError: unterminated string literal (detected at line 8)
+
+ERROR:root:2024-03-20 16:40:08: Error executing policychecker.py script:   File "/home/venkatasiva.b@optit.india/Documents/RRR/ALL/policychecker.py", line 8
+    user_name = 'TechWorrior
+                ^
+SyntaxError: unterminated string literal (detected at line 8)
+
+ERROR:root:2024-03-20 19:02:05: Error executing policychecker.py script:   File "/home/venkatasiva.b@optit.india/Documents/RRR/ALL/policychecker.py", line 8
+    user_name = 'TechWorrior
+                ^
+SyntaxError: unterminated string literal (detected at line 8)
+
